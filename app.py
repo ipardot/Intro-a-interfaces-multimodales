@@ -7,3 +7,6 @@ st.header ("Mi comienzo con apps")
 st.write ("Me gusta mucho la transmedia")
 image = Image.open ('IMG_1036.jpeg')
 st.image(image, caption = 'Representación mental de yo')
+
+texto = st.text_input('Dime con quien andas, 'Y te dire quien eres')
+st.write('El texto escrito es', texto)
