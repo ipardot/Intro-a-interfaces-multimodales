@@ -1,2 +1,2 @@
 import steamlit as st
-st.tittle ("Hola, yo soy ipardot")
+st.title ("Hola, yo soy ipardot")
