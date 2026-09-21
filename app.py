@@ -11,7 +11,7 @@ st.title("PLAYER 1: IPARDOT")
 st.header("NIVEL 1 - MI COMIENZO CON APPS")
 st.write("CLASE DE PERSONAJE: TRANSMEDIA. Mi build mezcla narrativa, codigo e interfaz en un solo mundo.")
 
-image = Image.open('IMG_1036.jpeg')
+image = Image.open('IsaPixel.png')
 st.image(image, caption='>> SPRITE DEL JUGADOR: Esta soy yo yo')
 
 texto = st.text_input('SELECCIONA TU PARTY - dime con quien andas', 'INSERTA NOMBRE')
