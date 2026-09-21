@@ -6,9 +6,9 @@ st.title ("Hola, yo soy ipardot")
 st.header ("Mi comienzo con apps")
 st.write ("Me gusta mucho la transmedia")
 image = Image.open ('IMG_1036.jpeg')
-st.image(image, caption = 'Representación mental de yo')
+st.image(image, caption = 'Esta soy yo')
 
-texto = st.text_input('Dime con quien andas', 'Aquí')
+texto = st.text_input('¿Te gusta la clase de Interfaces Multimodales?')
 st.write('El texto escrito es', texto)
 
 st.subheader ("Ahora usemos 2 Columnas")
