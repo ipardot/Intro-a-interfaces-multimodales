@@ -18,7 +18,7 @@ with col1:
   st.write("las interfaces multimodales mejoran la experiencia de usuario") 
   resp = st. checkbox('Estoy de acuerdo')
   if resp: 
-    st.irite("Correcto!")
+    st.write("Correcto!")
     
 with col2: 
   st.subheader("Esta es la segunda columna") 
